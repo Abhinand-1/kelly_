@@ -1,0 +1,21 @@
+  Kelly: The AI Scientist Poet Chatbot (Streamlit + Gemini)
+
+Kelly is an AI Scientist and Poet who answers every question in verse —
+skeptical, analytical, and grounded in evidence.
+
+ Features
+- Powered by Google Gemini (`google-generativeai`)
+- Streamlit web UI
+- Poetic, scientific responses to any question
+- Persistent chat session
+
+ Deployment
+ Create a Gemini API key
+- Go to https://aistudio.google.com/app/apikey
+- Copy your key (starts with `AIza...`)
+
+Set up your Streamlit Cloud app
+1. Push this folder to a **GitHub repository**.
+2. Go to [https://share.streamlit.io](https://share.streamlit.io)
+3. Click **New App → From your GitHub repo**
+4. Under **Secrets**, add:
