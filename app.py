@@ -9,7 +9,6 @@ Original file is located at
 
 
 
-!pip install -q google-generativeai gradio
 
 import google.generativeai as genai
 import gradio as gr
